@@ -1,0 +1,12 @@
+
+# **Introduction**
+
+Hi there! 👋
+
+My name is **Nicholas**, and I’m an aspiring **software engineer** currently building my foundation in programming and software development.
+
+This repository serves as both a **learning tracker** and a **portfolio** to document my progress as I explore different areas of software engineering — starting with **frontend development**, and gradually expanding into **backend** and other technologies along the way.
+
+I’m currently working on projects from [roadmap.sh](https://roadmap.sh/frontend/projects) to strengthen my understanding of core development concepts.
+
+This space will continue to evolve as I learn, build, and grow in my journey as a developer. 🚀
