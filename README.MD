@@ -13,6 +13,6 @@ This space will continue to evolve as I learn, build, and grow in my journey as 
 
 ## Project links
 
-These here will be all the links for the projects that i had done. Feel free to click to any of it and see.
+These here will be all the links for the projects that i had done.
 
-1.[Single-Page CV](https://github.com/nickyanga/Roadmap.sh_Projects/tree/main/front-end/1.Single-Page%20CV)
+1. The project from roadmap.sh : [Single-Page CV](https://roadmap.sh/projects/single-page-cv) and My version of the project :[Single-Page CV](https://github.com/nickyanga/Roadmap.sh_Projects/tree/main/front-end/1.Single-Page%20CV)
