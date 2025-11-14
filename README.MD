@@ -1,4 +1,3 @@
-
 # **Introduction**
 
 Hi there! 👋
@@ -10,3 +9,10 @@ This repository serves as both a **learning tracker** and a **portfolio** to doc
 I’m currently working on projects from [roadmap.sh](https://roadmap.sh/frontend/projects) to strengthen my understanding of core development concepts.
 
 This space will continue to evolve as I learn, build, and grow in my journey as a developer. 🚀
+
+
+## Project links
+
+These here will be all the links for the projects that i had done. Feel free to click to any of it and see.
+
+1.[Single-Page CV](https://github.com/nickyanga/Roadmap.sh_Projects/tree/main/front-end/1.Single-Page%20CV)
