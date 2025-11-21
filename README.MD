@@ -10,9 +10,9 @@ I’m currently working on projects from [roadmap.sh](https://roadmap.sh/fronten
 
 This space will continue to evolve as I learn, build, and grow in my journey as a developer. 🚀
 
-
 ## Project links
 
 These here will be all the links for the projects that i had done.
 
-1. The project from roadmap.sh : [Single-Page CV](https://roadmap.sh/projects/single-page-cv) and My version of the project :[Single-Page CV](https://github.com/nickyanga/Roadmap.sh_Projects/tree/main/front-end/1.Single-Page%20CV)
+1. The project from roadmap.sh : [Single-Page CV](https://roadmap.sh/projects/single-page-cv) and My version of the project : [Single-Page CV](https://github.com/nickyanga/Roadmap.sh_Projects/tree/main/front-end/1.Single-Page%20CV)
+2. The project from roadmap.sh : [Basic HTML website](https://roadmap.sh/projects/basic-html-website) and My version of the project : [Basic HTML website]()
